@@ -31,8 +31,8 @@ UAS-KecerdasanBuatan/
      ├── dataset/
      │    └── E_Commerce_Dataset.xlsx  # Dataset mentah format Excel dari Kaggle
      └── Jurnal/
-          ├── jurnal1.txt              # Ref: Firman Firdaus & Lamsihar (UBSI)
-          ├── jurnal2.txt              # Ref: Suryadillah, Jasmir, & Gunardi (UNAMA)
-          ├── jurnal3.txt              # Ref: Alifa Putri, dkk (UNSRI)
-          ├── jurnal4.txt              # Ref: M. Haris, Diva, & Arief (UBRAW)
-          └── jurnal5.txt              # Ref: Sitti Nurhaliza, dkk (Jurnal Komputasi)
+          ├── jurnal1.pdf              # Ref: Firman Firdaus & Lamsihar (UBSI)
+          ├── jurnal2.pdf              # Ref: Suryadillah, Jasmir, & Gunardi (UNAMA)
+          ├── jurnal3.pdf              # Ref: Alifa Putri, dkk (UNSRI)
+          ├── jurnal4.pdf              # Ref: M. Haris, Diva, & Arief (UBRAW)
+          └── jurnal5.pdf              # Ref: Sitti Nurhaliza, dkk (Jurnal Komputasi)
